@@ -44,4 +44,16 @@
 .projects {
 	margin-left: 10rem;
 	margin-right: 10rem;
+	@media screen and (max-width: "500px") {
+		margin-left: 1rem;
+		margin-right: 1rem;
+	}
+	@media screen and (min-width: "501px") and (max-width: "700px") {
+		margin-left: 2rem;
+		margin-right: 2rem;
+	}
+	@media screen and (min-width: "701px") and (max-width: "1000px") {
+		margin-left: 4rem;
+		margin-right: 4rem;
+	}
 }
