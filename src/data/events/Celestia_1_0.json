@@ -1,0 +1,16 @@
+{
+    "title": "Celestia 1.0",
+    "description": "Celestia is an annual themed event hosted by DJ Unicode as a means for networking and socializing with other tech enthusiasts. It is a platform for juniors to interact with seniors in a fun environment, with different tech and non-tech games, and a chance to win exciting prizes. Celestia is a great opportunity to meet new people and make friends, and to learn about the tech community at DJSCE.",
+    "slug": "celestia-1-0",
+    "links": [
+        "https://www.instagram.com/reel/CzA0kk_N6H0/?igsh=N2kyOTJpcHEwZm1o"
+    ],
+    "images": [
+        "../../images/events/celestia1_1.png"
+    ],
+    "contributors": {
+        "Externals": [0],
+        "TEmentors": [97, 94],
+        "SEmentees": [0]
+    }
+}
